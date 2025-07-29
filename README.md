@@ -1,8 +1,8 @@
 # CS361 Milestone 1
 ## Project Description
-# Vacation Planner – Milestone 1
+# Vacation Planner
 
-This project is the implementation of **Milestone 1** for CS3
+This project is the implementation of **Milestone 1** for CS361
 The Vacation Planner is a simple Python application that helps users choose a travel destination based on their preferences for climate, activities, and budget.
 
 ---
